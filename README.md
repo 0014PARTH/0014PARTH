@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **parth14rana@gmail.com**
 
-- ⚡ Fun fact **I am funny😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
