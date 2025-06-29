@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Rana</h1>
 <h3 align="center">A passionate Java Full Stack Developer</h3>
 
-<img align="right" alt="coder_gif" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif"
+<img align="right" alt="coder_gif" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif"/>
 
 - 🌱 I’m currently learning **Spring Security**
 
