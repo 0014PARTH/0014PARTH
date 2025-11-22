@@ -3,11 +3,11 @@
 
 <img align="right" alt="coder_gif" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif"/>
 
-- 🌱 I’m currently learning **Spring Security**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/0014PARTH?tab=repositories](https://github.com/0014PARTH?tab=repositories)
 
-- 💬 Ask me about **Java, SQL, Spring Boot**
+- 💬 Ask me about **Python, AI agents**
 
 - 📫 How to reach me **parth14rana@gmail.com**
 
