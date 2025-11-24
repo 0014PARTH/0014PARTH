@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Rana</h1>
-<h3 align="center">A Java Full Stack Developer</h3>
+<h3 align="center">AI Explorer</h3>
 
 <img align="right" alt="coder_gif" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif"/>
 
